@@ -1,7 +1,7 @@
 # leetcode solutions using python
 This is my leetcode solution folder.
 
-Language: python
+Language:
 
 Last updated: 2017-06-27
 
