@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * Created by gouthamvidyapradhan on 14/03/2017. Given a collection of candidate numbers (C) and a
+ * Given a collection of candidate numbers (C) and a
  * target number (T), find all unique combinations in C where the candidate numbers sums to T.
  *
  * <p>Each number in C may only be used once in the combination.
