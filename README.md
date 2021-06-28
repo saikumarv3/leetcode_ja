@@ -1,8 +1,6 @@
-# leetcode solutions using python
+# leetcode solutions using java
 This is my leetcode solution folder.
 
-Language:
+Language: Java
 
-Last updated: 2017-06-27
 
-The source code was fetched using the tool [leetcode-spider](https://github.com/Ma63d/leetcode-spider).
