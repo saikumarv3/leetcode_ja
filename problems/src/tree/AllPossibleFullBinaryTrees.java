@@ -3,7 +3,7 @@ package tree;
 import java.util.*;
 
 /**
- * Created by gouthamvidyapradhan on 30/04/2019 A full binary tree is a binary tree where each node
+ * A full binary tree is a binary tree where each node
  * has exactly 0 or 2 children.
  *
  * <p>Return a list of all possible full binary trees with N nodes. Each element of the answer is
