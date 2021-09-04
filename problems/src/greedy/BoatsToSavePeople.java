@@ -3,7 +3,7 @@ package greedy;
 import java.util.*;
 
 /**
- * Created by gouthamvidyapradhan on 09/05/2019 The i-th person has weight people[i], and each boat
+ * The i-th person has weight people[i], and each boat
  * can carry a maximum weight of limit.
  *
  * <p>Each boat carries at most 2 people at the same time, provided the sum of the weight of those
